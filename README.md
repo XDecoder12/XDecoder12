@@ -31,7 +31,7 @@ I enjoy understanding how things work and turning what I learn into practical pr
 
 ### CivicPulse
 
-AI-powered civic infrastructure monitoring using drone footage and computer vision to detect hazards including potholes, waterlogging, open manholes, damaged footpath and drainage overflow.
+AI-powered civic infrastructure monitoring using drone footage and computer vision to detect hazards including potholes, waterlogging, open manholes, damaged footpaths and drainage overflow.
 
 **First Runner-Up**  
 ELCIA Next-Gen Innovative Tech Hackathon 2026  
@@ -39,7 +39,7 @@ Smart City Drone-AI Challenge
 
 ### ClearContract
 
-An AI-powered platform designed to help users understand and analyse legal documents.
+An AI-powered Chrome extension prototype for analysing contract and Terms of Service text using Google's Gemini API.
 
 ### Meshmerize
 
