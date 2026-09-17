@@ -55,4 +55,4 @@ An STM32-based autonomous line-following and maze-solving robot.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/Manthan-Chawda/) • [Resume](./documents/Manthan_s_Resume.pdf) • [CV](./documents/Manthan_s_CV.pdf)
+[LinkedIn](www.linkedin.com/in/manthan-chawda-521522352) • [Resume](./documents/Manthan_s_Resume.pdf) • [CV](./documents/Manthan_s_CV.pdf)
