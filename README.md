@@ -24,7 +24,7 @@ I enjoy understanding how things work and turning what I learn into practical pr
 ## Currently Working On
 
 - Strengthening my foundations in **Machine Learning and AI**
-- Building **Kitchen Track**, an iOS app for smarter pantry and food management
+- Building **Everyday Kitchen**, an iOS app for smarter pantry and food management
 - Continuing development of **CivicPulse**, an AI-powered civic infrastructure monitoring system
 
 ## Selected Projects
