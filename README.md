@@ -37,14 +37,6 @@ AI-powered civic infrastructure monitoring using drone footage and computer visi
 ELCIA Next-Gen Innovative Tech Hackathon 2026  
 Smart City Drone-AI Challenge
 
-### ClearContract
-
-An AI-powered Chrome extension prototype for analysing contract and Terms of Service text using Google's Gemini API.
-
-### Meshmerize
-
-An STM32-based autonomous line-following and maze-solving robot.
-
 ## Technologies
 
 **Languages:** Python · C/C++ · Swift · SQL · HTML/CSS
