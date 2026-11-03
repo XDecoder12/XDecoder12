@@ -47,4 +47,4 @@ Smart City Drone-AI Challenge
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/manthan-chawda-521522352) • [Resume](./documents/Manthan_s_Resume.pdf) • [CV](./documents/Manthan_s_CV.pdf)
+[LinkedIn](www.linkedin.com/in/manthan-chawda-521522352) • [Resume](./documents/Manthan_Resume.pdf) • [CV](./documents/Manthan_CV.pdf)
